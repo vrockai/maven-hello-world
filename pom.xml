@@ -10,6 +10,13 @@
   <name>maven-hello-world</name>
   <url>http://maven.apache.org</url>
 
+  <scm>
+    <url>https://github.com/vrockai/maven-hello-world.git</url>
+    <connection>scm:git:git@github.com:vrockai/maven-hello-world.git</connection>
+    <developerConnection>scm:git:git@github.com:vrockai/maven-hello-world.git</developerConnection>
+    <tag>maven-hello-world-1.0</tag>
+  </scm>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
